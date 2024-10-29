@@ -1,9 +1,4 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "jsonwebtoken": "^9.0.2"
-  }
-=======
   "name": "part1",
   "private": true,
   "version": "0.0.0",
@@ -34,5 +29,4 @@
     "presets": ["@babel/preset-env", "@babel/preset-react"]
   }
   
->>>>>>> 84e1b3fcdcaf15e9439e232a55cd1de2007131b0
 }
